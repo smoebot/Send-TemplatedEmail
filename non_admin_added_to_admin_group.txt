@@ -1,0 +1,21 @@
+Hello $userFirstName, 
+
+The $businessName Cyber Fusion Center have been alerted to activity which indicates that your privileged administrative account $adminUser added a non Privileged Account to an administrative group. 
+
+$nonAdminAccount account was added to  
+
+$groupName
+
+This is in violation of $businessName policy, which can be found here: 
+*  <policy link 1>
+
+Abuse of account privileges contributes to increased risk for $businessName.  Cyber Fusion Center have removed this account from this group. 
+
+The appropriate account to have been added to these groups was $correctAdminAccount.
+
+Please refrain from this activity in the future.
+
+Regards,
+
+$businessName Cyber Fusion Center Team
+$contactEmail
