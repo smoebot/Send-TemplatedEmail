@@ -1,6 +1,6 @@
 Hello $userFirstName,
 
-As part of usual security monitoring activities for $businessName, the Cyber Fusion Center alerts on instances where users have configured email to automatically forward mail outside of $businessName.  
+As part of usual security monitoring activities for $businessName, the Cyber Fusion Center alerts on instances where users have configured their mailbox to automatically forward mail outside of $businessName.  
 
 Your account was indicated as being configured to forward mail externally to the following address: 
  
