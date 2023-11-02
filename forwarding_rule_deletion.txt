@@ -1,0 +1,32 @@
+Hello $userFirstName,
+
+As part of usual security monitoring activities for $businessName, the Cyber Fusion Center Team alerts on instances where users have created mail forwarding rules that automatically forward mail outside of $businessName. 
+
+Your account has been indicated as having an automatic forwarding rule created. The rule is included below:
+
+
+$ruleSnip
+
+
+Forwarding email outside of $businessName in this way breaches the $businessName Email Standard, and the $businessName End User Acceptable Use Policy, which can be found here: 
+*  <policy link 1>
+*  <policy link 1>
+
+In particular the $businessName Email standard states: 
+*  <excerpt 1>
+*  <excerpt 2>
+*  <excerpt 3>
+
+The $businessName End User Acceptable Use Policy also states: 
+*  <excerpt 1>
+*  <excerpt 2>
+
+As a result, the Cyber Fusion Center Team have deleted this automatic forwarding rule along with any other rules that forward email externally to $businessName.
+Mailbox rules identified by this process will no longer work as intended. 
+
+Please refrain from these activities in the future. 
+
+Regards,
+
+$businessName Cyber Fusion Center Team
+$contactEmail
