@@ -1,0 +1,28 @@
+Hello $userFirstName,
+
+As part of usual security monitoring activities for $businessName, the Cyber Fusion Center Team discovered files that appear to be used for bypassing licensing restrictions and gaining unauthorised access to copyrighted software.
+
+The files identified were:
+
+$piratedFiles
+
+$businessName strictly forbids the possession and/or use of pirated software, and this action breaches the $businessName End User Acceptable Use Policy, which can be found here:
+•	<policy link 1>
+
+In particular the $businessName End User Acceptable Use Policy states: 
+•	<excerpt 1>
+•	<excerpt 2>
+•	<excerpt 3>
+
+As a result:
+•	The offending files have been removed from the drive in question.
+•	If you are aware of other software or materials that violate licensing restrictions or copyright, please remove the offending files immediately from any device that you use for $businessName business
+•	If software that violates licensing restrictions, or other copyrighted materials, are discovered on a device under your possession or control in the future, this matter will be passed on to $businessName HR and Legal departments for investigation
+•	If you require one of these applications to perform your work, please contact your local IT support team for assistance
+
+Please refrain from these activities in the future. 
+
+Regards,
+
+$businessName Cyber Fusion Center Team
+$contactEmail
