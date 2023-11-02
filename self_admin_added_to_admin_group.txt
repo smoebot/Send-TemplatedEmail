@@ -1,0 +1,19 @@
+Hello $userFirstName, 
+
+The $businessName Cyber Fusion Center have been alerted to activity which indicates that your privileged administrative account $adminAccount added itself to another administrative group. 
+
+$adminAccount privileged account was added to $groupName 
+
+This is in violation of $businessName policy, which can be found here:
+*  <policy link 1>
+
+Please follow the appropriate authorisation and process to have your account added to this adminsitrative group.
+
+Cyber Fusion Center have removed your account from this group. 
+
+Please refrain from performing this type of activity in the future. Segregation of duties is vital to ensuring the $businessName network is not compromised. 
+
+Regards,
+
+$businessName Cyber Fusion Center Team
+$contactEmail
