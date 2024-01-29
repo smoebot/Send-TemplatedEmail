@@ -1,0 +1,10 @@
+Hello $userFirstName, 
+
+Thank you for reporting this email to us.  The email you have sent is part of the phishing simulation training.  
+
+For future emails that you think are suspicious,  please report them via the Report Phish (Phish Alarm) button in Outlook.
+
+Regards,
+
+Cyber Fusion Center Team
+$contactEmail
